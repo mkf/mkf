@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-I am a third-time-on-first-year Informatics (Computer Science) undergrad.
+I am presently on second year of stationary undergraduate Computer Science on Faculty of Mathematics and Computer Science (WMI) of Adam Mickiewicz University in Poznań (year 2020/21).
 
-<table class="studia"><thead><tr><th>In academic year</th><th class="empty"></th>
-        <th><abbr title="Yep! Third time on first year so far!">first–year</abbr> undergrad student of Informatics (Polish-language, stationary)<br>
-        on Faculty of Mathematics and Computer Science of</th></tr>
-        </thead><tbody>
-        <tr><td class="rakad"><b>2019/20</b></td><td style="border-bottom: 1px solid black;">I am</td><td>Adam Mickiewicz University in Poznań</td></tr>
-        <tr><td class="rakad">2018/19</td><td rowspan="2">I were</td><td>Adam Mickiewicz University in Poznań</td></tr>
-        <tr><td class="rakad">2017/18</td><td>Nicolaus Copernicus University in Toruń</td></tr></tbody></table>
+I was previously twice on first-year thereof (2018/19, 2019/20) and once on WMiI UMK (Nicolaus Copernicus University in Toruń) (2017/18).
         
 See [my profile website](https://a.mikf.pl) for more information about me. There is also a [/now page](https://a.mikf.pl/now) there.
 
