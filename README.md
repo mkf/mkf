@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Mika Feiler.
+### Hi, I'm Mika
 
 I am presently unemployed and residing in Poznań, no longer a student of AMU Poznań nor of UMK(NCU) Toruń, having dropped out.
         
