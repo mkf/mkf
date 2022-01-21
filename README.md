@@ -8,8 +8,6 @@ See [my profile website](https://a.mikf.pl) for more information about me. There
 
 I am active on Twitter as [@mika_feiler](https://twitter.com/mika_feiler).
 
-I have an interest in functional programming. I use NixOS.
-
 *My pronouns are __she/her__.*
 
 <!--
