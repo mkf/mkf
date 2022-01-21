@@ -6,8 +6,6 @@ I am presently unemployed and residing in Poznań, no longer a student of AMU Po
         
 See [my profile website](https://a.mikf.pl) for more information about me. There is also a [/now page](https://a.mikf.pl/now) there.
 
-I am active on Twitter as [@mika_feiler](https://twitter.com/mika_feiler).
-
 *My pronouns are __she/her__.*
 
 <!--
