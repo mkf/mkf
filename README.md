@@ -18,7 +18,7 @@ I maintain a mediocre wiki of mine at [wiki1.mikf.pl](https://wiki1.mikf.pl).
  * handles&distinguishes events for logoff/shutdown and session switch/lock
  * uses .NET app settings configuration files
 
-Unfinished implementations of 3 Man Chess: In The Round. A team project.
+Unfinished implementations of 3 Man Chess: In The Round. A team project. **(2015-2018)**
  * [jchess3man in Java](https://github.com/mkf/jchess3man)
  * [ThreeManChess in Haskell](https://github.com/mkf/ThreeManChess)
  * [clj3manchess in Clojure](https://github.com/mkf/clj3manchess)
