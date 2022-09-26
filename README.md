@@ -1,11 +1,5 @@
 ### Hi, I'm Mika
 
-I am presently unemployed and residing in Poznań, no longer a student of AMU Poznań nor of UMK(NCU) Toruń, having dropped out.
-        
-See [my profile website](https://a.mikf.pl) for more information about me. There is also a [/now page](https://a.mikf.pl/now) there.
-
-I maintain a mediocre wiki of mine at [wiki1.mikf.pl](https://wiki1.mikf.pl).
-
 *My pronouns are __she/her__.*
 
 -----
